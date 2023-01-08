@@ -1,2 +1,3 @@
 # deep-learning-roadmap
-my roadmap of learning deep learning
+
+1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/)
