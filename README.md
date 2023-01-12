@@ -7,4 +7,6 @@
 
 
 ## Book
-1. [Data Science Handbook](https://github.com/creatorcao/PythonDataScienceHandbook)
+1. [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
+2. [Data Science Handbook](https://github.com/creatorcao/PythonDataScienceHandbook)
