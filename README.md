@@ -16,6 +16,10 @@
 
 3. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-pytorch) ⭐️⭐️⭐️⭐️
 
+4. [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) ⭐️⭐️⭐️⭐️
+
+5. [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) ⭐️⭐️⭐️⭐️
+
 
 ## Kaggle Competition
 1. [my repo](https://github.com/creatorcao/kaggle-competition) ⭐️⭐️⭐️⭐️
