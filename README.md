@@ -6,6 +6,7 @@
  
 3. [3Blue1Brown](https://www.youtube.com/@3blue1brown/playlists) ⭐️⭐️⭐️⭐️
 
+4. [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7) ⭐️⭐️⭐️
 
 
 ## Book
@@ -19,6 +20,8 @@
 4. [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) ⭐️⭐️⭐️⭐️
 
 5. [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) ⭐️⭐️⭐️⭐️
+
+6. [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) ⭐️⭐️⭐️
 
 
 ## Kaggle Competition
