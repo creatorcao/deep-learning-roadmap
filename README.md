@@ -23,6 +23,8 @@
 
 6. [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) ⭐️⭐️⭐️
 
+7. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) ⭐️⭐️⭐️⭐️⭐️
+
 
 ## Kaggle Competition
 1. [my repo](https://github.com/creatorcao/kaggle-competition) ⭐️⭐️⭐️⭐️
