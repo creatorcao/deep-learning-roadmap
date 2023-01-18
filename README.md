@@ -13,7 +13,7 @@
 
 1. [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) ⭐️⭐️⭐️⭐️⭐️
 
-2. [Data Science Handbook](https://github.com/creatorcao/PythonDataScienceHandbook) ⭐️⭐️⭐️⭐️
+2. [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐️⭐️⭐️⭐️
 
 3. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-pytorch) ⭐️⭐️⭐️⭐️
 
