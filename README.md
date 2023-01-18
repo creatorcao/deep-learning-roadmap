@@ -6,7 +6,7 @@
  
 3. [3Blue1Brown](https://www.youtube.com/@3blue1brown/playlists) ⭐️⭐️⭐️⭐️
 
-4. [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7) ⭐️⭐️⭐️
+4. [Data Scientist with Python (DataCamp)](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=7) ⭐️⭐️⭐️
 
 
 ## Book
@@ -15,7 +15,7 @@
 
 2. [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐️⭐️⭐️⭐️
 
-3. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-pytorch) ⭐️⭐️⭐️⭐️
+3. [Deep Learning with Pytorch](https://www.manning.com/books/deep-learning-with-pytorch) ⭐️⭐️⭐️⭐️
 
 4. [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) ⭐️⭐️⭐️⭐️
 
