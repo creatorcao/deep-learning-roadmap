@@ -25,6 +25,8 @@
 
 7. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) ⭐️⭐️⭐️⭐️⭐️
 
+8. [Deep Learning](https://www.deeplearningbook.org/lecture_slides.html) ⭐️⭐️⭐️⭐️⭐️
+
 
 ## Kaggle Competition
 1. [my repo](https://github.com/creatorcao/kaggle-competition) ⭐️⭐️⭐️⭐️
