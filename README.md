@@ -29,9 +29,9 @@
 
 
 ## Kaggle Competition
-1. [my repo](https://github.com/creatorcao/kaggle-competition) ⭐️⭐️⭐️⭐️
+1. [My repo](https://github.com/creatorcao/kaggle-competition) ⭐️⭐️⭐️⭐️
 
-2. [machine learning practice](https://www.kaggle.com/competitions/titanic) ⭐️⭐️⭐️⭐️⭐️
+2. [Machine learning practice](https://www.kaggle.com/competitions/titanic) ⭐️⭐️⭐️⭐️⭐️
 
-3. [time series practice](https://www.kaggle.com/competitions/widsdatathon2023) ⭐️⭐️⭐️⭐️⭐️
+3. [Time series practice](https://www.kaggle.com/competitions/widsdatathon2023) ⭐️⭐️⭐️⭐️⭐️
 
