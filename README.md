@@ -32,3 +32,6 @@
 1. [my repo](https://github.com/creatorcao/kaggle-competition) ⭐️⭐️⭐️⭐️
 
 2. [machine learning practice](https://www.kaggle.com/competitions/titanic) ⭐️⭐️⭐️⭐️⭐️
+
+3. [time series practice](https://www.kaggle.com/competitions/widsdatathon2023) ⭐️⭐️⭐️⭐️⭐️
+
