@@ -36,14 +36,20 @@
 
 - [OpenCV](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html) ⭐️⭐️⭐️
 
+- [Programming PyTorch for Deep Learning](https://www.goodreads.com/book/show/45007865-programming-pytorch-for-deep-learning) ⭐️⭐️⭐️⭐️⭐️
+
 
 ## Data Visualization 
 
+- [Storytelling with Data](https://www.goodreads.com/book/show/26535513-storytelling-with-data) ⭐️⭐️⭐️⭐️
+
+
+
 
 ## Kaggle Competition
-1. [My repo](https://github.com/creatorcao/kaggle-competition) ⭐️⭐️⭐️⭐️
+- [My repo](https://github.com/creatorcao/kaggle-competition) ⭐️⭐️⭐️⭐️
 
-2. [Machine learning practice](https://www.kaggle.com/competitions/titanic) ⭐️⭐️⭐️⭐️⭐️
+- [Machine learning practice](https://www.kaggle.com/competitions/titanic) ⭐️⭐️⭐️⭐️⭐️
 
-3. [Time series practice](https://www.kaggle.com/competitions/widsdatathon2023) ⭐️⭐️⭐️⭐️⭐️
+- [Time series practice](https://www.kaggle.com/competitions/widsdatathon2023) ⭐️⭐️⭐️⭐️⭐️
 
