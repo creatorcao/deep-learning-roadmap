@@ -2,7 +2,10 @@
  
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/) ⭐️⭐️⭐️⭐️
 
-- [Machine/Deep Learning Specialization (Andrew Ng)](https://www.youtube.com/@Deeplearningai/playlists) ⭐️⭐️⭐️⭐️⭐️
+- [Deep Learning AI(Andrew Ng)](https://www.youtube.com/@Deeplearningai/playlists) ⭐️⭐️⭐️⭐️⭐️
+   - Machine Learning Specialization
+   - Deep Learning Specialization 
+   - Generative Adversarial Networks
  
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown/playlists) ⭐️⭐️⭐️⭐️
 
