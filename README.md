@@ -42,6 +42,13 @@
 - [Programming PyTorch for Deep Learning](https://www.goodreads.com/book/show/45007865-programming-pytorch-for-deep-learning) ⭐️⭐️⭐️⭐️⭐️
 
 
+## Generative AI
+
+- [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) ⭐️⭐️⭐️⭐️⭐️
+
+- [How Diffusion Models Work](https://www.coursera.org/projects/how-diffusion-models-work-project) ⭐️⭐️⭐️⭐️
+
+
 ## Data Visualization 
 
 - [Storytelling with Data](https://www.goodreads.com/book/show/26535513-storytelling-with-data) ⭐️⭐️⭐️⭐️
